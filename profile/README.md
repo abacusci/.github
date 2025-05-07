@@ -1,4 +1,4 @@
-# Abacus Computing Institute · GitHub Organization
+# Abacus Computing Institute
 
 Welcome to the official GitHub space for **Abacus Computing Institute (AbacusCI)**.
 
